@@ -1,4 +1,4 @@
-<div>
+<div pt-25 text-xl>
 <ListCustom
 title="Objectifs"
 :list="[
@@ -6,6 +6,6 @@ title="Objectifs"
     `Apprendre les concepts de base du HTML`,
     `Apprendre a disigner une page web`,
 ]"
-listSize="text-3xl"
+listSize="text-5xl"
 />
 </div>  
