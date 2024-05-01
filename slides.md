@@ -39,3 +39,10 @@ src: "slides/slide06.md"
 layout: "mlayout"
 image: "/html.svg"
 ---
+
+---
+title: "Exceptions"
+src: "slides/slide07.md"
+layout: "mlayout"
+image: "/html.svg"
+---
