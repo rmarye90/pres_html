@@ -16,7 +16,8 @@
     <p>Exemple:</p>
 
 ```html
-
+<p>Mon paragraphe est ici</p>
 ````
 
+<p pt-4 >Ainsi, notre navigateur sait que "Mon paragraphe est ici". est un paragraphe et sera interprété comme tel.</p>
 </div>
