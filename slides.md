@@ -15,8 +15,9 @@ backgroundImage: "/circle2.svg"
 ---
 title: "Section 1"
 src: "slides/slide03.md"
-layout: "mlayout"
+layout: "mBgBg"
 image: "/html.svg"
+backgroundImage: "/polygon.svg"
 ---
 
 ---
@@ -57,8 +58,9 @@ image: "/html.svg"
 ---
 title: "Exercice 1"
 src: "slides/slide09.md"
-layout: "mlayout"
+layout: "mBgBg"
 image: "/html.svg"
+backgroundImage: "/polygon.svg"
 ---
 
 ---
