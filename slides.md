@@ -53,3 +53,17 @@ src: "slides/slide08.md"
 layout: "mlayout"
 image: "/html.svg"
 ---
+
+---
+title: "Exercice 1"
+src: "slides/slide09.md"
+layout: "mlayout"
+image: "/html.svg"
+---
+
+---
+title: "Exercice 1"
+src: "slides/slide10.md"
+layout: "mlayout"
+image: "/html.svg"
+---
