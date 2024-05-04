@@ -41,8 +41,15 @@ image: "/html.svg"
 ---
 
 ---
-title: "Exceptions"
+title: "Les balises autofermées"
 src: "slides/slide07.md"
+layout: "mlayout"
+image: "/html.svg"
+---
+
+---
+title: "Structure d'une page HTML"
+src: "slides/slide08.md"
 layout: "mlayout"
 image: "/html.svg"
 ---
