@@ -69,3 +69,10 @@ src: "slides/slide10.md"
 layout: "mlayout"
 image: "/html.svg"
 ---
+
+---
+title: "Exercice 1"
+src: "slides/slide11.md"
+layout: "mlayout"
+image: "/html.svg"
+---
