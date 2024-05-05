@@ -56,7 +56,7 @@ image: "/html.svg"
 ---
 
 ---
-title: "Exercice 1"
+title: "Section 2"
 src: "slides/slide09.md"
 layout: "mBgBg"
 image: "/html.svg"
@@ -64,15 +64,30 @@ backgroundImage: "/polygon.svg"
 ---
 
 ---
-title: "Exercice 1"
+title: "Balise p"
 src: "slides/slide10.md"
 layout: "mlayout"
 image: "/html.svg"
 ---
 
 ---
-title: "Exercice 1"
+title: "Balise h1"
 src: "slides/slide11.md"
+layout: "mlayout"
+image: "/html.svg"
+---
+
+---
+title: "Exercice 1"
+src: "slides/slide0_.md"
+layout: "mBgBg"
+image: "/html.svg"
+backgroundImage: "/polygon.svg"
+---
+
+---
+title: "Exercice 1"
+src: "slides/slide01_.md"
 layout: "mlayout"
 image: "/html.svg"
 ---
