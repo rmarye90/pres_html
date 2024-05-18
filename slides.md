@@ -92,6 +92,13 @@ image: "/html.svg"
 ---
 
 ---
+title: "Balise Div"
+src: "slides/slide14.md"
+layout: "mlayout"
+image: "/html.svg"
+---
+
+---
 title: "Exercice 1"
 src: "slides/slide0_.md"
 layout: "mBgBg"
