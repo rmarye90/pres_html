@@ -85,6 +85,13 @@ image: "/html.svg"
 ---
 
 ---
+title: "Balise liens"
+src: "slides/slide13.md"
+layout: "mlayout"
+image: "/html.svg"
+---
+
+---
 title: "Exercice 1"
 src: "slides/slide0_.md"
 layout: "mBgBg"
