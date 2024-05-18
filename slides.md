@@ -78,6 +78,13 @@ image: "/html.svg"
 ---
 
 ---
+title: "Balise liste"
+src: "slides/slide12.md"
+layout: "mlayout"
+image: "/html.svg"
+---
+
+---
 title: "Exercice 1"
 src: "slides/slide0_.md"
 layout: "mBgBg"
