@@ -2,7 +2,7 @@
     <div>
         <h1 w-90 pb-4 text-ts font-mono text-2xl>Les balises de titre</h1>
     </div>
-    <p pb-4>
+    <p>
         Les balises de titre permettent de structurer le contenu d'une page HTML. Elles sont utilisées pour définir le titre de la page, les titres de sections, les sous-titres, etc.
     </p>
     <p pb-4>
@@ -18,17 +18,18 @@
 
 <div>
     <h1 text-xl text-accent pt-4>Exemple:</h1>
-
-```html 
-<h1>Mon titre principal</h1>
-<h2>Je suis un titre important</h2>
-<h3>Moi aussi, je suis un titre important</h3>
-<h4>Je suis un titre d'importance moyenne</h4>
-<h5>Un titre pas très important</h5>
-<h6>Un titre peu important</h6>
-```
-
 </div>
+
+<div class="bg-[#1B1B1B]">
+    <h1 text-6xl><code>&lt;h1&gt;</code>Mon titre principal<code>&lt;h1&gt;</code></h1>
+    <h2 text-5xl><code>&lt;h2&gt;</code>Je suis un titre important<code>&lt;h2&gt;</code></h2>
+    <h3 text-4xl><code>&lt;h3&gt;</code>Moi aussi, je suis un titre important<code>&lt;h3&gt;</code></h3>
+    <h4 text-3xl><code>&lt;h4&gt;</code>Je suis un titre d'importance moyenne<code>&lt;h4&gt;</code></h4>
+    <h5 text-2xl><code>&lt;h5&gt;</code>Un titre pas très important<code>&lt;h5&gt;</code></h5>
+    <h6 text-xl><code>&lt;h6&gt;</code>Un titre peu important<code>&lt;h6&gt;</code></h6>
+</div>
+
+
 
 </div>
 
