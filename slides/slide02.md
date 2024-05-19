@@ -1,4 +1,4 @@
-<div pt-25 text-xl>
+<div pt-35 text-xl>
 <ListCustom
 title="Objectifs"
 :list="[

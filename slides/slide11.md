@@ -1,6 +1,6 @@
 <div w-full h-full>
     <div>
-        <h1 w-90 pb-4 text-ts font-mono text-2xl>Les balises de titre</h1>
+        <h1 w-75 pb-4 text-gradient-html font-mono text-2xl>Les balises de titre</h1>
     </div>
     <p>
         Les balises de titre permettent de structurer le contenu d'une page HTML. Elles sont utilisées pour définir le titre de la page, les titres de sections, les sous-titres, etc.
@@ -17,7 +17,7 @@
 </div>
 
 <div>
-    <h1 text-xl text-accent pt-4>Exemple:</h1>
+    <h1 text-xl text-gradient-html pt-4>Exemple:</h1>
 </div>
 
 <div class="bg-[#1B1B1B]">

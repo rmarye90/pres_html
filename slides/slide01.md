@@ -1,6 +1,6 @@
 <div relative w-full h-full>
     <div
-        text-5xl absolute top-8 left-8 fw-bold text-primary
+        text-5xl absolute top-8 left-8 fw-bold text-gradient-html
         v-motion
         :initial="{ x: -80, opacity: 0}"
         :enter="{ x: 0, opacity: 1, transition: { delay: 0, duration: 1000 } }"

@@ -1,6 +1,6 @@
 <div w-full h-full>
     <div>
-        <h1 w-140 pb-4 text-ts font-mono text-2xl>Exceptions: Les balises autofermées</h1>
+        <h1 w-140 pb-4 text-gradient-html font-mono text-2xl>Exceptions: Les balises autofermées</h1>
     </div>
     <p>Certaine balises n'ont pas besoin de balise fermante. On les appelle les balises autofermées.</p>
      <div pt-4>

@@ -1,6 +1,6 @@
 <div w-full h-full>
     <div>
-        <h1 w-90 pb-4 text-ts font-mono text-2xl>Les balises de Liens</h1>
+        <h1 w-90 pb-4 text-gradient-html font-mono text-2xl>Les balises de Liens</h1>
     </div>
     <p>
         Les liens sont des éléments qui permettent de naviguer d'une page à une autre. Ils sont utilisés pour relier des pages entre elles, mais aussi pour relier des parties d'une même page.
@@ -25,7 +25,7 @@
             _blank: Ouvre le lien dans une nouvelle fenêtre
         </li>
     </ul>
-<h1 text-xl text-accent pt-4>Les Ancres</h1>
+<h1 text-xl text-gradient-html pt-4>Les Ancres</h1>
 <p>
     Les ancres sont des liens qui permettent de naviguer à l'intérieur d'une même page. 
 </p>

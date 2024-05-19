@@ -2,6 +2,11 @@
 title: "Slides"
 src: "slides/slide01.md"
 layout: "defaultLayout"
+transition: slide-left
+fonts:
+  sans: SFCompact
+  serif: Poppins
+  mono: SFMono
 ---
 
 ---
@@ -9,7 +14,7 @@ title: "Objectifs"
 src: "slides/slide02.md"
 layout: "mBgBg"
 image: "/html.svg"
-backgroundImage: "/circle2.svg"
+backgroundImage: "/circle4.svg"
 ---
 
 ---
@@ -17,7 +22,7 @@ title: "Section 1"
 src: "slides/slide03.md"
 layout: "mBgBg"
 image: "/html.svg"
-backgroundImage: "/polygon.svg"
+backgroundImage: "/polygon2.svg"
 ---
 
 ---
@@ -60,7 +65,7 @@ title: "Section 2"
 src: "slides/slide09.md"
 layout: "mBgBg"
 image: "/html.svg"
-backgroundImage: "/polygon.svg"
+backgroundImage: "/polygon2.svg"
 ---
 
 ---
@@ -103,7 +108,7 @@ title: "Exercice 1"
 src: "slides/slide0_.md"
 layout: "mBgBg"
 image: "/html.svg"
-backgroundImage: "/polygon.svg"
+backgroundImage: "/polygon2.svg"
 ---
 
 ---

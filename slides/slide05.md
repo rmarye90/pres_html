@@ -1,6 +1,6 @@
 <div w-full h-full>
     <div>
-        <h1 w-50 pb-4 text-ts font-mono text-2xl>La Sémantique</h1>
+        <h1 w-50 pb-4 text-gradient-html font-mono text-2xl>La Sémantique</h1>
     </div>
     <p>Il existe de nombreuse balise et chacune servant à baliser un contenu spécifique.</p>
     <div pt-4>

@@ -20,6 +20,8 @@ export default defineConfig({
     "text-quote":
       "rounded-sm py-1.5 px-2 text-sm font-serif text-#d1d5db bg-#18181b border-l-4 border-#0d9488 size-w-160",
     "text-file-name": "text-xs text-secondary italic ",
+    "text-gradient-html":
+      "bg-gradient-to-r from-[#e34d26] from-10% via-[#f16529] via-50% to-[#ffb300] to-90% font-extrabold bg-clip-text text-transparent",
   },
   theme: {
     colors: {

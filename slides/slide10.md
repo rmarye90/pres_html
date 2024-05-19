@@ -1,6 +1,6 @@
 <div w-full h-full>
     <div>
-        <h1 w-90 pb-4 text-ts font-mono text-2xl>Les balises de paragraphe</h1>
+        <h1 w-100 pb-4 text-gradient-html font-mono text-2xl>Les balises de paragraphe</h1>
     </div>
 <div  text-quote>
     <h1 text-xl text-accent>Importance de la sementique</h1>
