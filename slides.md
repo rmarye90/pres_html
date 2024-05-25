@@ -147,7 +147,7 @@ image: "/html.svg"
 
 ---
 title: "Exercice 1"
-src: "slides/slide0_.md"
+src: "slides/slide21Exo.md"
 layout: "mBgBg"
 image: "/html.svg"
 backgroundImage: "/circle.svg"
@@ -155,7 +155,7 @@ backgroundImage: "/circle.svg"
 
 ---
 title: "Exercice 1"
-src: "slides/slide01_.md"
+src: "slides/slide22Exo.md"
 layout: "mlayout"
 image: "/html.svg"
 ---
