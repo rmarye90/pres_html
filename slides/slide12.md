@@ -10,7 +10,7 @@
         Exemple de liste ordonnée:
     </p>
     <div>
-        <ol list-decimal>
+        <ol list-decimal-inside>
             <li>Élément 1</li>
             <li>Élément 2</li>
             <li>Élément 3</li>
@@ -24,7 +24,7 @@
         Exemple de liste non ordonnée:
     </p>
     <div>
-        <ul list-disc>
+        <ul list-disc-inside>
             <li>Élément 1</li>
             <li>Élément 2</li>
             <li>Élément 3</li>

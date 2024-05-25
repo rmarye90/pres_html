@@ -8,9 +8,6 @@
         Il est important de bien choisir les balises en fonction du contenu que l'on souhaite afficher.
         </p>
 </div>
-        <p pt-4>
-            Un paragraphe est un bloc de texte qui est séparé des autres blocs de texte par un espace.
-        </p>
         <p pb-4>
             Pour créer un paragraphe, il suffit d'entourer le texte par la balise <code>&lt;p&gt;</code> et <code>&lt;/p&gt;</code>.
         </p>

@@ -8,9 +8,9 @@
         title="Comme par exemple:"
         :list="[
             `des titres <h1>`,
-            `des listes </li>`,
-            `des tableaux </p>`,
-            `des formulaires </form>`,
+            `des listes <li>`,
+            `des paragraphe <p>`,
+            `des formulaires <form>`,
             `... et bien d'autres.`,
         ]"
         />

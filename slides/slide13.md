@@ -11,20 +11,24 @@
     <p>
         Voici un exemple de lien:
     </p>
-    <div>
-        <a href="https://www.google.com" text-amber>Google</a>
-    </div>
-    <p pb-4 pt-4>
+
+```html
+<a href="https://www.google.com">Google</a>
+
+```
+<p>Résultat:</p>
+<div>
+    <a href="https://www.google.com" text-amber>Google</a>
+</div>
+<p pb-4 pt-4>
        Par defaut, il s'ouvre dans la même fenêtre. Pour ouvrir dans une nouvelle fenêtre, on ajoute l'attribut <code>target="_blank"</code>.
-    </p>
-    <ul>
-        <li>
-            _self: Ouvre le lien dans la même fenêtre
-        </li>
-        <li>
-            _blank: Ouvre le lien dans une nouvelle fenêtre
-        </li>
-    </ul>
+</p>
+
+```html
+<a href="https://www.google.com" target="_blank">Google</a>
+
+```
+
 <h1 text-xl text-gradient-html pt-4>Les Ancres</h1>
 <p>
     Les ancres sont des liens qui permettent de naviguer à l'intérieur d'une même page. 

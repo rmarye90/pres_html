@@ -2,9 +2,9 @@
 <ListCustom
 title="Objectifs"
 :list="[
-    `Comprendre les base de la programmation web`,
+    `Comprendre les bases du dévelopement web`,
     `Apprendre les concepts de base du HTML`,
-    `Apprendre a disigner une page web`,
+    `Apprendre a styliser une page web`,
 ]"
 listSize="text-5xl"
 />
