@@ -13,7 +13,7 @@ defineProps({
 
 <template>
   <div
-    :style="{ backgroundImage: `url(${backgroundImage})` }"
+    :style="{ backgroundImage: `url(${backgroundImage})`, backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundPosition: 'center',}"
     relative
     h-full
     w-full

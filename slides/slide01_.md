@@ -1,6 +1,6 @@
 <div w-full h-full>
     <div>
-        <h1 w-150 pb-4 text-ts font-mono text-2xl>Exercice 1: Mise en place d'une page HTML</h1>
+        <h1 w-150 pb-4 text-gradient-html font-mono text-2xl>Exercice 1: Mise en place d'une page HTML</h1>
     </div>
     <div pt-4>
         <ListCustom
