@@ -1,0 +1,20 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" id="visual" viewBox="0 0 900 600" width="900" height="600" version="1.1">
+  <ns0:rect width="900" height="600" fill="#121212" />
+  <ns0:g>
+    <ns0:g transform="translate(20 21)">
+      <ns0:path d="M0 -147L127.3 -73.5L127.3 73.5L0 147L-127.3 73.5L-127.3 -73.5Z" fill="none" stroke="#1672b6" stroke-width="2" />
+    </ns0:g>
+    <ns0:g transform="translate(835 451)">
+      <ns0:path d="M0 -138L119.5 -69L119.5 69L0 138L-119.5 69L-119.5 -69Z" fill="none" stroke="#1672b6" stroke-width="2" />
+    </ns0:g>
+    <ns0:g transform="translate(546 553)">
+      <ns0:path d="M0 -135L116.9 -67.5L116.9 67.5L0 135L-116.9 67.5L-116.9 -67.5Z" fill="none" stroke="#1672b6" stroke-width="2" />
+    </ns0:g>
+    <ns0:g transform="translate(863 104)">
+      <ns0:path d="M0 -145L125.6 -72.5L125.6 72.5L0 145L-125.6 72.5L-125.6 -72.5Z" stroke="#1672b6" fill="none" stroke-width="2" />
+    </ns0:g>
+    <ns0:g transform="translate(2 458)">
+      <ns0:path d="M0 -47L40.7 -23.5L40.7 23.5L0 47L-40.7 23.5L-40.7 -23.5Z" stroke="#1672b6" fill="none" stroke-width="2" />
+    </ns0:g>
+  </ns0:g>
+</ns0:svg>
