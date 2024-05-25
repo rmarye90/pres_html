@@ -22,6 +22,8 @@ export default defineConfig({
     "text-file-name": "text-xs text-secondary italic ",
     "text-gradient-html":
       "bg-gradient-to-r from-[#e34d26] from-10% via-[#f16529] via-50% to-[#ffb300] to-90% font-extrabold bg-clip-text text-transparent",
+    "text-gradient-css":
+      "bg-gradient-to-r from-[#1672b6] from-10% via-[#33a8dc] via-50% to-[#00acff] to-90% font-extrabold bg-clip-text text-transparent",
   },
   theme: {
     colors: {

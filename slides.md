@@ -108,7 +108,7 @@ title: "Exercice 1"
 src: "slides/slide0_.md"
 layout: "mBgBg"
 image: "/html.svg"
-backgroundImage: "/polygon2.svg"
+backgroundImage: "/circle.svg"
 ---
 
 ---
