@@ -159,3 +159,30 @@ src: "slides/slide22Exo.md"
 layout: "mlayout"
 image: "/html.svg"
 ---
+
+---
+title: "Slides"
+src: "slides/slide23.md"
+layout: "defaultLayout"
+transition: slide-left
+fonts:
+  sans: SFCompact
+  serif: Poppins
+  mono: SFMono
+---
+
+---
+title: "Section 3"
+src: "slides/slide24.md"
+layout: "mBgBg"
+image: "/Css3.svg"
+backgroundImage: "/polygon3.svg"
+---
+
+---
+title: "Les bases du CSS"
+src: "slides/slide25.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
