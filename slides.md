@@ -104,11 +104,53 @@ image: "/html.svg"
 ---
 
 ---
+title: "Balise de structure"
+src: "slides/slide15.md"
+layout: "mlayout"
+image: "/html.svg"
+---
+
+---
+title: "Balise de structure"
+src: "slides/slide16.md"
+layout: "mlayout"
+image: "/html.svg"
+---
+
+---
+title: "Balise de structure"
+src: "slides/slide17.md"
+layout: "mlayout"
+image: "/html.svg"
+---
+
+---
+title: "Balise de structure"
+src: "slides/slide18.md"
+layout: "mlayout"
+image: "/html.svg"
+---
+
+---
+title: "Balise de structure"
+src: "slides/slide19.md"
+layout: "mlayout"
+image: "/html.svg"
+---
+
+---
+title: "Balise de structure"
+src: "slides/slide20.md"
+layout: "mlayout"
+image: "/html.svg"
+---
+
+---
 title: "Exercice 1"
 src: "slides/slide0_.md"
 layout: "mBgBg"
 image: "/html.svg"
-backgroundImage: "/polygon2.svg"
+backgroundImage: "/circle.svg"
 ---
 
 ---
