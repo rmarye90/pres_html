@@ -33,8 +33,10 @@
 <p>
     Les ancres sont des liens qui permettent de naviguer à l'intérieur d'une même page. 
 </p>
-<p pb-4>
-    Pour cela, une balise html doit être nommé avec une #id, et la source du lien doit prendre cette #id
-</p>
+
+```html
+<a href="#top">Ancre vers le haut de la page</a>
+
+```
 
 </div>
