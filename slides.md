@@ -61,6 +61,13 @@ image: "/html.svg"
 ---
 
 ---
+title: "Quizz"
+src: "slides/slide08Quizz.md"
+layout: "mlayout"
+image: "/html.svg"
+---
+
+---
 title: "Section 2"
 src: "slides/slide09.md"
 layout: "mBgBg"
