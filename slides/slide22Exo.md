@@ -31,6 +31,6 @@
             `Le texte du lien doit être : &quot;Aller sur Google&quot;.`
         ]"
     />
-    </div>
+</div>
 </div>
 
