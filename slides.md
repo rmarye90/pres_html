@@ -153,6 +153,13 @@ image: "/html.svg"
 ---
 
 ---
+title: "Quizz 2"
+src: "slides/slide20Quizz.md"
+layout: "mlayout"
+image: "/html.svg"
+---
+
+---
 title: "Exercice 1"
 src: "slides/slide21Exo.md"
 layout: "mBgBg"
