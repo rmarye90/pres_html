@@ -12,7 +12,7 @@ const props = defineProps({
     type: String,
     default: "list-square",
   },
-  listSize: {
+  listStyle: {
     type: String,
     default: "text-md",
   },
@@ -22,7 +22,7 @@ const props = defineProps({
 
 <template>
   <div w-full px-8 mb-4>
-    <h2 :class="props.listSize" class="fw-bold text-gradient-html font-mono mb-2">
+    <h2 :class="props.listStyle" class="fw-bold font-mono mb-2">
       {{ props.title }} {{ props.title.length > 0 ? ':' : '' }}
     </h2>
     <slot name="tslot" />
