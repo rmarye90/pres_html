@@ -25,7 +25,7 @@ div {
 ```
 
 <p text-gradient-css pb-2>Diférent style de bordure:</p>
-<img src="/public/bordure.png" alt="bordure" width="250">
+<img src="/bordure.png" alt="bordure" width="250">
 
 </div>
 
