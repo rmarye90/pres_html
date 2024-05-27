@@ -213,3 +213,103 @@ src: "slides/slide27.md"
 layout: "mlayout"
 image: "/Css3.svg"
 ---
+
+---
+title: "position"
+src: "slides/slide28.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "position"
+src: "slides/slide29.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "position"
+src: "slides/slide30.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "position"
+src: "slides/slide31.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "position"
+src: "slides/slide32.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "position"
+src: "slides/slide33.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "position"
+src: "slides/slide34.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "position"
+src: "slides/slide35.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "position"
+src: "slides/slide36.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "position"
+src: "slides/slide37.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "position"
+src: "slides/slide38.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "position"
+src: "slides/slide39.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "position"
+src: "slides/slide40.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "position"
+src: "slides/slide41.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+
