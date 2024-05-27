@@ -1,6 +1,6 @@
 <div w-full h-full>
     <div>
-        <h1 w-70 pb-4 text-gradient-css font-mono text-2xl >Modèle de Boîte CSS</h1>
+        <h1 w-70 pb-4 text-gradient-css font-mono text-2xl >Box Model en CSS</h1>
     </div>
     <div>
         <ListCustom
