@@ -7,7 +7,7 @@
         listStyle="text-gradient-css"
         title="Qu'est-ce que CSS?"
         :list="[
-            `CSS signifie Cqscading Style Sheets`,
+            `CSS signifie Cascading Style Sheets`,
             `Permet de styliser les pages HTML`,
         ]"
         />

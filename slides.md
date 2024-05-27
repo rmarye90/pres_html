@@ -200,4 +200,9 @@ layout: "mlayout"
 image: "/Css3.svg"
 ---
 
-
+---
+title: "box-model"
+src: "slides/slide26.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
