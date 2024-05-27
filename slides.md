@@ -206,3 +206,10 @@ src: "slides/slide26.md"
 layout: "mlayout"
 image: "/Css3.svg"
 ---
+
+---
+title: "display"
+src: "slides/slide27.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
