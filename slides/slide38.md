@@ -14,8 +14,8 @@
 
 <style>
 .flex-container {
-  display: flex; /* Enable Flexbox */
-  justify-content: center;
+  display: flex;
+  justify-content: center; /* Center items horizontally */
   border: 2px solid orange;
   padding: 10px;
 }
