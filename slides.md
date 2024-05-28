@@ -312,4 +312,136 @@ layout: "mlayout"
 image: "/Css3.svg"
 ---
 
+---
+title: "Quizz 3"
+src: "slides/slide42.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Exercice 2"
+src: "slides/slide43.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Exercice 2"
+src: "slides/slide44.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Exercice 2"
+src: "slides/slide45.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Exercice 2"
+src: "slides/slide46.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Exercice 2"
+src: "slides/slide47.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Slide48"
+src: "slides/slide48.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Slide49"
+src: "slides/slide49.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Slide50"
+src: "slides/slide50.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Slide51"
+src: "slides/slide51.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Slide52"
+src: "slides/slide52.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Slide53"
+src: "slides/slide53.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Slide54"
+src: "slides/slide54.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Slide55"
+src: "slides/slide55.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Slide56"
+src: "slides/slide56.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Slide57"
+src: "slides/slide57.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Slide58"
+src: "slides/slide58.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Slide59"
+src: "slides/slide59.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
+
+---
+title: "Slide60"
+src: "slides/slide60.md"
+layout: "mlayout"
+image: "/Css3.svg"
+---
 
