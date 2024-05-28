@@ -11,7 +11,6 @@
   <div class="flex-item">Item 2</div>
   <div class="flex-item">Item 3</div>
 </div>
-
 <style>
 .flex-container {
   display: flex;

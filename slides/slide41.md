@@ -11,12 +11,11 @@
   <div class="flex-item">Item 2</div>
   <div class="flex-item">Item 3</div>
 </div>
-
 <style>
 .flex-container {
   display: flex;
   flex-direction: column; /* Arrange items vertically */
-  justify-content: center;
+  justify-content: between; /* Distribute space between items */
   align-items: center; /* Center items vertically */
   border: 2px solid orange;
   height: 100vh; /* Full height to see vertical alignment */

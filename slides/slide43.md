@@ -26,7 +26,6 @@
   height: 100vh;
   padding: 10px;
 }
-
 </style>
 ```
 </div>
