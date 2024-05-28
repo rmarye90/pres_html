@@ -1,6 +1,6 @@
 <div w-full h-full>
     <div>
-        <h1 w-100 pb-4 text-gradient-css font-mono text-2xl >Flex: Centrer les éléments verticalement</h1>
+        <h1 pb-4 text-gradient-css font-mono text-2xl >Flex: Centrer les éléments verticalement</h1>
     </div>
     <div grid="~ cols-2 gap-4">
 <div>
