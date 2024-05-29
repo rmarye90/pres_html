@@ -60,12 +60,12 @@ layout: "mlayout"
 image: "/html.svg"
 ---
 
----
-title: "Quizz"
-src: "slides/slide08Quizz.md"
-layout: "mlayout"
-image: "/html.svg"
----
+<!-- --- -->
+<!-- title: "Quizz" -->
+<!-- src: "slides/slide08Quizz.md" -->
+<!-- layout: "mlayout" -->
+<!-- image: "/html.svg" -->
+<!-- --- -->
 
 ---
 title: "Section 2"
@@ -152,12 +152,12 @@ layout: "mlayout"
 image: "/html.svg"
 ---
 
----
-title: "Quizz 2"
-src: "slides/slide20Quizz.md"
-layout: "mlayout"
-image: "/html.svg"
----
+<!-- --- -->
+<!-- title: "Quizz 2" -->
+<!-- src: "slides/slide20Quizz.md" -->
+<!-- layout: "mlayout" -->
+<!-- image: "/html.svg" -->
+<!-- --- -->
 
 ---
 title: "Exercice 1"
