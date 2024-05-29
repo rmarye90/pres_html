@@ -1,0 +1,69 @@
+<div w-full h-full>
+    <div>
+        <h1 pb-4 text-gradient-css font-mono text-2xl >Grid: Créer une grille plus complexe</h1>
+    </div>
+    <div grid="~ cols-2 gap-4">
+<div>
+
+````md magic-move
+```html
+<div class="grid-container">
+  <div class="grid-item">Item 1</div>
+  <div class="grid-item grid-position">Item 2</div>
+  <div class="grid-item">Item 3</div>
+</div>
+
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  ...
+}
+
+.grid-item { ... }
+
+.grid-position {
+  grid-column-start: 2;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+</style>
+```
+```html
+<div class="grid-container">
+  <div class="grid-item">Item 1</div>
+  <div class="grid-item grid-position">Item 2</div>
+  <div class="grid-item">Item 3</div>
+</div>
+
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  ...
+}
+
+.grid-item { ... }
+
+.grid-position {
+  grid-column: 2 / 4;
+  grid-row: 1 / 3;
+}
+</style>
+```
+````
+</div>
+<div>
+    <div h-96 p-2 border-2 border-orange grid="~ cols-3 gap-4">
+      <div p-4 border-2 border-emerald>Item 1</div>
+      <div p-4 border-2 border-emerald col-start-2 col-end-4 row-start-1 row-end-3>Item 2</div>
+      <div p-4 border-2 border-emerald>Item 3</div>
+    </div>
+</div>
+</div>
+</div>
+
+
+
+
