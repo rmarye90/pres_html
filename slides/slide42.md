@@ -15,7 +15,7 @@
 .flex-container {
   display: flex;
   flex-direction: column;
-  justify-content: between;
+  justify-content: space-between;
   align-items: center;
   border: 2px solid orange;
   height: 100vh;
