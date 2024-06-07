@@ -4,6 +4,6 @@
     </div>
     <h1 text-xl pb-2 text-gradient-html>Exemple de page type:</h1>
     <div>
-        <img width="400" src="page_web_type.svg">
+        <img width="400" src="/page_web_type.svg">
     </div>
 </div>
