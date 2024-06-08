@@ -427,6 +427,8 @@ image: "/Css3.svg"
 ---
 
 ---
+preload: false
+clicks: 1
 title: "Slide58"
 src: "slides/slide58.md"
 layout: "mlayout"

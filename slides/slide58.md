@@ -14,6 +14,10 @@
         />
     </div>
     <div>
+        <ul v-if="$slidev.nav.clicks === 1">
+            <li v-motion="{ initial: { x: -200, opacity: 0.5 }, enter: { x: 0, opacity: 1 }}" text-3xl text-ts text-center mt-8>transition</li>
+            <li v-motion="{ initial: { x: 1000, opacity: 0 }, enter: { x: 0, opacity: 1 }}" text-3xl text-ts text-center mt-8>animation</li>
+        </ul>
     </div>
 </div>
 
