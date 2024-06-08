@@ -411,6 +411,7 @@ image: "/Css3.svg"
 ---
 
 ---
+preload: false
 title: "Slide56"
 src: "slides/slide56.md"
 layout: "mlayout"
@@ -418,6 +419,7 @@ image: "/Css3.svg"
 ---
 
 ---
+preload: false
 title: "Slide57"
 src: "slides/slide57.md"
 layout: "mlayout"
