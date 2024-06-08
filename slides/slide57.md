@@ -7,7 +7,8 @@
             :leave="{ x: -1000 }"
             pb-4 text-gradient-css font-mono text-2xl
         >
-            Introduction aux Animations 🥳</h1>
+            Introduction aux Animations 🥳
+        </h1>
     </div>
     <div v-motion :initial="{ x: -1000, y: 1000, scale: 0.5, rotate: 0, opacity: 1 }" :enter="{ x: 0, y: -10, scale: 1, rotate: 0, opacity: 1 }" :leave="{ x: -1000 }">
         <ListCustom
@@ -28,6 +29,9 @@
         <span text-5xl>
         🥳
         </span>
+    </div>
+    <div>
+        1 - Une animation CSS est une technique qui permet de créer des effets visuels en modifiant les propriétés CSS des éléments HTML sur une durée définie.
     </div>
 </div>
 
